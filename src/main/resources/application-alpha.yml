@@ -1,0 +1,6 @@
+spring:
+  profiles:
+    active: alpha
+  redis:
+    host: redis-websocket.e9c0i2.ng.0001.apn2.cache.amazonaws.com
+    port: 6379
